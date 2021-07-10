@@ -1,0 +1,14 @@
+{
+  "title": "About",
+  "sourceCode": {
+    "heading": "Source Code",
+    "body": "Want to run the project from its source? Are you a developer willing to contribute to the open-source development of this project? Click the button below.",
+    "buttons": {
+      "githubRepo": "GitHub Repo"
+    }
+  },
+  "footer": {
+    "credit": "Made with Love by <1>Aditya Mantri</1>",
+    "thanks": "Thank you for using Reactive Resume!"
+  }
+}
